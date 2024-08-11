@@ -64,7 +64,4 @@ I include these presentations because they were about two topics I have been rec
 2. Unproductive spaces
 
 
-### Teaching
-2024 DS Workshop. Tecnologico de Monterrey. Monterrey, Mexico. 2024 (invited)
-
 

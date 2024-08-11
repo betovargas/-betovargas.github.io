@@ -1,6 +1,6 @@
 ---
 layout: page
-title: about
+title: about (draft)
 ---
 
 # A reaction
@@ -9,5 +9,12 @@ title: about
 
 # Origin
 
-- In attending talks, conferences, meetings, getherings, etc... the mode of thinking (the status quo) is always a *yes* and *no* to questionable technology and its uses. The *no* comes from a moral imperative and thoughtfuless that certain technological tools and methods are anithetical to what we claim in libraires. The *yes* comes from a resignation that we can't do anything in affecting the structure of our organizations and we must say *yes* to these technologies while keeping a critial stance (a *no* hidden in a *yes*). I would like to move away from this *yes* and *no* tug. This *yes* and *no* approach both acknolewledges a type of realism and at the same time says "your are stuck here and also you can't react nor deconstruct." This is reflected in the often asked question, usually after a talk critial of technologies used in libraries, that goes something like this: "I agree with you but we can't do anything to change" either because of our current job posiiton or organizational strucutre. If we do live in a limited space, the only thing we can do is react without producing a change. To expect to produce is to give into the strucure's assumption. In other words, if our ourganizations' imperative on us is to produce / be proactive then to say we can't react because it is not producing is to limit ourselves to the imperative of what we are trying to change. 
+- In attending talks, conferences, meetings, getherings, etc... the mode of thinking (the status quo) is always a *yes* and *no* to questionable technology and its uses. The *no* comes from a moral imperative and thoughtfuless that certain technological tools and methods are anithetical to what we claim in libraires. The *yes* comes from a resignation that we can't do anything in affecting the structure of our organizations and we must say *yes* to these technologies while keeping a critial stance (a *no* hidden in a *yes*). I would like to move away from this *yes* and *no* tug. This *yes* and *no* approach both acknolewledges a type of realism and at the same time says "your are stuck here and also you can't react nor deconstruct." This is reflected in the often asked question, usually after a talk critial of technologies used in libraries, that goes something like this: "I agree with you but we can't do anything to change" either because of our current job posiiton or organizational strucutre. If we do live in a limited space, the only thing we can do is react without producing a change. To expect to produce is to give into the strucure's assumption. In other words, if our ourganizations' imperative on us is to produce / be proactive then to say we can't react because it is not producing is to limit ourselves to the imperative of what we are trying to change. Surely, we don't have taker the assumption that the only possible way to react is when it produces something. We are free to react without producing
+
+# FAQ
+
+- What is your responsability towards students who want to have a specific skill?
+- Some technologies are here to stay?
+- Technology is neither good nor bad, it depends on how you use it?
+  
 

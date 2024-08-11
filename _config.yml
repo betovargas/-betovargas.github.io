@@ -1,10 +1,10 @@
-title: obfuscation, inefficiency, not future-oriented, skill-less,  # name of the site
+title: Roberto Vargas obfuscation, inefficiency, not future-oriented, unproductive,  # name of the site
 author: Roberto Vargas # name of site's author
 email: # email of site's author
 url: https://betovargas.github.io/ # root address of the site
 baseurl: # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
 description: > # description of the site (multiple lines allowed)
-  A site to put what I have done
+  A site of reflection
 
 permalink: /:slug.html
 
