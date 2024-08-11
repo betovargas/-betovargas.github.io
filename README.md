@@ -1,5 +1,16 @@
 # no style, please!
 
+
+- local Gemfile contains:
+  - source "https://rubygems.org"
+
+gem "kramdown-parser-gfm"
+
+gemspec
+gem "webrick", "~> 1.8"
+
+ruby: ruby 3.1.0p0
+
 <img src="https://raw.githubusercontent.com/riggraz/no-style-please/master/logo.png" width="64" align="left" />A (nearly) no-CSS, fast, minimalist [Jekyll](https://jekyllrb.com/) theme.
 Inspired by [elly's site](http://tilde.town/~elly/), expressly created for [my personal blog](https://riggraz.dev/).
 
