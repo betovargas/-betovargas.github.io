@@ -14,7 +14,11 @@ entries:
     - title: obfuscation (draft)
       url: obfuscation 
     - title: inefficiency (draft)
+      url: inefficiency
     - title: not future-oriented
+      url: not-future-oriented
+    - title: mistake-prone (draft)
+      url: mistake-prone
 
   # - title: all post
    # post_list:
