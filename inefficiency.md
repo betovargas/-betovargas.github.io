@@ -9,4 +9,6 @@ title: inefficiency
 
 This urge to find the most **efficient** methodological techniques in whatever we do needs to be gone. As Jacques Ellul would later expand, technique is not the issue but its revelation in efficiency. 
 
-The statement **I agree with you, but we can't do anything** has this urge for efficiency in mind. When I disagree with a method, approach, topic, and action I will react leaving efficiency behind. We need slowness not for own individual benefit (like for example, for the consumeristic understanding of "self car") but as a way to get rid of productivity and efficiency as the main drivers in our lives.
+The statement **I agree with you, but we can't do anything** has this urge for efficiency in mind. When I disagree with a method, approach, topic, and action I will react leaving efficiency behind. We need slowness not for our own individual benefit (like for example, in a consumeristic understanding of "self care") but as a way to get rid of productivity and efficiency as the main drivers in our lives. 
+
+The end has become the mean and vice-versa.  
